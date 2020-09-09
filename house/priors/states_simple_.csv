@@ -1,0 +1,436 @@
+id,State,District,DAVG,RAVG
+AL_1,Alabama,Alabama 1st,36,64
+AL_2,Alabama,Alabama 2nd,36,64
+AL_3,Alabama,Alabama 3rd,36,64
+AL_4,Alabama,Alabama 4th,20,80
+AL_5,Alabama,Alabama 5th,36,64
+AL_6,Alabama,Alabama 6th,36,64
+AL_7,Alabama,Alabama 7th,64,36
+AK,Alaska,Alaska at-large,46,54
+AZ_1,Arizona,Arizona 1st,52,48
+AZ_2,Arizona,Arizona 2nd,46,54
+AZ_3,Arizona,Arizona 3rd,64,36
+AZ_4,Arizona,Arizona 4th,32,68
+AZ_5,Arizona,Arizona 5th,40,60
+AZ_6,Arizona,Arizona 6th,46,54
+AZ_7,Arizona,Arizona 7th,85,15
+AZ_8,Arizona,Arizona 8th,46,54
+AZ_9,Arizona,Arizona 9th,60,40
+AR_1,Arkansas,Arkansas 1st,40,60
+AR_2,Arkansas,Arkansas 2nd,40,60
+AR_3,Arkansas,Arkansas 3rd,40,60
+AR_4,Arkansas,Arkansas 4th,40,60
+CA_1,California,California 1st,45,55
+CA_2,California,California 2nd,77,23
+CA_3,California,California 3rd,58,42
+CA_4,California,California 4th,45,55
+CA_5,California,California 5th,80,20
+CA_6,California,California 6th,80,20
+CA_7,California,California 7th,55,45
+CA_8,California,California 8th,40,60
+CA_9,California,California 9th,56,44
+CA_10,California,California 10th,52,48
+CA_11,California,California 11th,75,25
+CA_12,California,California 12th,85,15
+CA_13,California,California 13th,88,12
+CA_14,California,California 14th,80,20
+CA_15,California,California 15th,75,25
+CA_16,California,California 16th,57,43
+CA_17,California,California 17th,75,25
+CA_18,California,California 18th,75,25
+CA_19,California,California 19th,75,25
+CA_20,California,California 20th,81,19
+CA_21,California,California 21st,50,50
+CA_22,California,California 22nd,53,47
+CA_23,California,California 23rd,35,65
+CA_24,California,California 24th,58,42
+CA_25,California,California 25th,54,46
+CA_26,California,California 26th,62,38
+CA_27,California,California 27th,80,20
+CA_28,California,California 28th,78,22
+CA_29,California,California 29th,80,20
+CA_30,California,California 30th,70,30
+CA_31,California,California 31st,58,42
+CA_32,California,California 32nd,70,30
+CA_33,California,California 33rd,70,30
+CA_34,California,California 34th,73,27
+CA_35,California,California 35th,70,30
+CA_36,California,California 36th,60,40
+CA_37,California,California 37th,90,10
+CA_38,California,California 38th,70,30
+CA_39,California,California 39th,52,48
+CA_40,California,California 40th,77,23
+CA_41,California,California 41st,65,35
+CA_42,California,California 42nd,40,60
+CA_43,California,California 43rd,77,23
+CA_44,California,California 44th,68,32
+CA_45,California,California 45th,52,48
+CA_46,California,California 46th,70,30
+CA_47,California,California 47th,65,35
+CA_48,California,California 48th,53,47
+CA_49,California,California 49th,56,44
+CA_50,California,California 50th,49,51
+CA_51,California,California 51st,70,30
+CA_52,California,California 52nd,65,35
+CA_53,California,California 53rd,70,30
+CO_1,Colorado,Colorado 1st,75,25
+CO_2,Colorado,Colorado 2nd,60,40
+CO_3,Colorado,Colorado 3rd,45,55
+CO_4,Colorado,Colorado 4th,30,70
+CO_5,Colorado,Colorado 5th,40,60
+CO_6,Colorado,Colorado 6th,43,57
+CO_7,Colorado,Colorado 7th,40,60
+CT_1,Connecticut,Connecticut 1st,62,38
+CT_2,Connecticut,Connecticut 2nd,62,38
+CT_3,Connecticut,Connecticut 3rd,62,38
+CT_4,Connecticut,Connecticut 4th,62,38
+CT_5,Connecticut,Connecticut 5th,55,45
+DE,Delaware,Delaware at-large,65,35
+FL_1,Florida,Florida 1st,33,67
+FL_2,Florida,Florida 2nd,33,67
+FL_3,Florida,Florida 3rd,45,55
+FL_4,Florida,Florida 4th,33,67
+FL_5,Florida,Florida 5th,67,33
+FL_6,Florida,Florida 6th,60,40
+FL_7,Florida,Florida 7th,57,43
+FL_8,Florida,Florida 8th,40,60
+FL_9,Florida,Florida 9th,60,40
+FL_10,Florida,Florida 10th,90,10
+FL_11,Florida,Florida 11th,35,65
+FL_12,Florida,Florida 12th,40,60
+FL_13,Florida,Florida 13th,60,40
+FL_14,Florida,Florida 14th,90,10
+FL_15,Florida,Florida 15th,45,55
+FL_16,Florida,Florida 16th,45,55
+FL_17,Florida,Florida 17th,35,65
+FL_18,Florida,Florida 18th,45,55
+FL_19,Florida,Florida 19th,35,65
+FL_20,Florida,Florida 20th,90,10
+FL_21,Florida,Florida 21st,90,10
+FL_22,Florida,Florida 22nd,62,38
+FL_23,Florida,Florida 23rd,60,40
+FL_24,Florida,Florida 24th,90,10
+FL_25,Florida,Florida 25th,40,60
+FL_26,Florida,Florida 26th,50,50
+FL_27,Florida,Florida 27th,52,48
+GA_1,Georgia,Georgia 1st,40,60
+GA_2,Georgia,Georgia 2nd,60,40
+GA_3,Georgia,Georgia 3rd,40,60
+GA_4,Georgia,Georgia 4th,78,22
+GA_5,Georgia,Georgia 5th,90,10
+GA_6,Georgia,Georgia 6th,50,50
+GA_7,Georgia,Georgia 7th,50,50
+GA_8,Georgia,Georgia 8th,10,90
+GA_9,Georgia,Georgia 9th,30,70
+GA_10,Georgia,Georgia 10th,37,63
+GA_11,Georgia,Georgia 11th,38,62
+GA_12,Georgia,Georgia 12th,40,60
+GA_13,Georgia,Georgia 13th,75,25
+GA_14,Georgia,Georgia 14th,25,75
+HI_1,Hawaii,Hawaii 1st,75,25
+HI_2,Hawaii,Hawaii 2nd,75,25
+ID_1,Idaho,Idaho 1st,35,65
+ID_2,Idaho,Idaho 2nd,35,65
+IL_1,Illinois,Illinois 1st,70,30
+IL_2,Illinois,Illinois 2nd,80,20
+IL_3,Illinois,Illinois 3rd,70,30
+IL_4,Illinois,Illinois 4th,85,15
+IL_5,Illinois,Illinois 5th,75,25
+IL_6,Illinois,Illinois 6th,55,45
+IL_7,Illinois,Illinois 7th,85,15
+IL_8,Illinois,Illinois 8th,65,35
+IL_9,Illinois,Illinois 9th,75,25
+IL_10,Illinois,Illinois 10th,65,35
+IL_11,Illinois,Illinois 11th,65,35
+IL_12,Illinois,Illinois 12th,47,53
+IL_13,Illinois,Illinois 13th,50,50
+IL_14,Illinois,Illinois 14th,53,47
+IL_15,Illinois,Illinois 15th,30,70
+IL_16,Illinois,Illinois 16th,40,60
+IL_17,Illinois,Illinois 17th,62,38
+IL_18,Illinois,Illinois 18th,35,65
+IN_1,Indiana,Indiana 1st,65,35
+IN_2,Indiana,Indiana 2nd,45,55
+IN_3,Indiana,Indiana 3rd,35,65
+IN_4,Indiana,Indiana 4th,35,65
+IN_5,Indiana,Indiana 5th,45,55
+IN_6,Indiana,Indiana 6th,35,65
+IN_7,Indiana,Indiana 7th,65,35
+IN_8,Indiana,Indiana 8th,35,65
+IN_9,Indiana,Indiana 9th,45,55
+IA_1,Iowa,Iowa 1st,50,50
+IA_2,Iowa,Iowa 2nd,54,46
+IA_3,Iowa,Iowa 3rd,50,50
+IA_4,Iowa,Iowa 4th,50,50
+KS_1,Kansas,Kansas 1st,30,70
+KS_2,Kansas,Kansas 2nd,50,50
+KS_3,Kansas,Kansas 3rd,55,45
+KS_4,Kansas,Kansas 4th,40,60
+KY_1,Kentucky,Kentucky 1st,30,70
+KY_2,Kentucky,Kentucky 2nd,30,70
+KY_3,Kentucky,Kentucky 3rd,60,40
+KY_4,Kentucky,Kentucky 4th,35,65
+KY_5,Kentucky,Kentucky 5th,20,80
+KY_6,Kentucky,Kentucky 6th,48,52
+LA_1,Louisiana,Louisiana 1st,30,70
+LA_2,Louisiana,Louisiana 2nd,80,20
+LA_3,Louisiana,Louisiana 3rd,30,70
+LA_4,Louisiana,Louisiana 4th,30,70
+LA_5,Louisiana,Louisiana 5th,30,70
+LA_6,Louisiana,Louisiana 6th,30,70
+ME_1,Maine,Maine 1st,58,42
+ME_2,Maine,Maine 2nd,50,50
+MD_1,Maryland,Maryland 1st,40,60
+MD_2,Maryland,Maryland 2nd,65,35
+MD_3,Maryland,Maryland 3rd,65,35
+MD_4,Maryland,Maryland 4th,80,20
+MD_5,Maryland,Maryland 5th,70,30
+MD_6,Maryland,Maryland 6th,60,40
+MD_7,Maryland,Maryland 7th,75,25
+MD_8,Maryland,Maryland 8th,70,30
+MA_1,Massachusetts,Massachusetts 1st,90,10
+MA_2,Massachusetts,Massachusetts 2nd,65,35
+MA_3,Massachusetts,Massachusetts 3rd,63,37
+MA_4,Massachusetts,Massachusetts 4th,90,10
+MA_5,Massachusetts,Massachusetts 5th,75,25
+MA_6,Massachusetts,Massachusetts 6th,65,35
+MA_7,Massachusetts,Massachusetts 7th,90,10
+MA_8,Massachusetts,Massachusetts 8th,90,10
+MA_9,Massachusetts,Massachusetts 9th,60,40
+MI_1,Michigan,Michigan 1st,45,55
+MI_2,Michigan,Michigan 2nd,45,55
+MI_3,Michigan,Michigan 3rd,45,55
+MI_4,Michigan,Michigan 4th,35,65
+MI_5,Michigan,Michigan 5th,60,40
+MI_6,Michigan,Michigan 6th,48,52
+MI_7,Michigan,Michigan 7th,46,54
+MI_8,Michigan,Michigan 8th,51,49
+MI_9,Michigan,Michigan 9th,60,40
+MI_10,Michigan,Michigan 10th,40,60
+MI_11,Michigan,Michigan 11th,52,48
+MI_12,Michigan,Michigan 12th,70,30
+MI_13,Michigan,Michigan 13th,85,15
+MI_14,Michigan,Michigan 14th,80,20
+MN_1,Minnesota,Minnesota 1st,50,50
+MN_2,Minnesota,Minnesota 2nd,53,47
+MN_3,Minnesota,Minnesota 3rd,55,45
+MN_4,Minnesota,Minnesota 4th,66,34
+MN_5,Minnesota,Minnesota 5th,80,20
+MN_6,Minnesota,Minnesota 6th,40,60
+MN_7,Minnesota,Minnesota 7th,53,47
+MN_8,Minnesota,Minnesota 8th,45,55
+MS_1,Mississippi,Mississippi 1st,35,65
+MS_2,Mississippi,Mississippi 2nd,70,30
+MS_3,Mississippi,Mississippi 3rd,35,65
+MS_4,Mississippi,Mississippi 4th,30,70
+MO_1,Missouri,Missouri 1st,80,20
+MO_2,Missouri,Missouri 2nd,48,52
+MO_3,Missouri,Missouri 3rd,35,65
+MO_4,Missouri,Missouri 4th,35,65
+MO_5,Missouri,Missouri 5th,60,40
+MO_6,Missouri,Missouri 6th,35,65
+MO_7,Missouri,Missouri 7th,30,70
+MO_8,Missouri,Missouri 8th,25,75
+MT,Montana,Montana at-large,44,56
+NE_1,Nebraska,Nebraska 1st,40,60
+NE_2,Nebraska,Nebraska 2nd,49,51
+NE_3,Nebraska,Nebraska 3rd,25,75
+NV_1,Nevada,Nevada 1st,65,35
+NV_2,Nevada,Nevada 2nd,43,57
+NV_3,Nevada,Nevada 3rd,51,49
+NV_4,Nevada,Nevada 4th,51,49
+NH_1,New Hampshire,New Hampshire 1st,55,45
+NH_2,New Hampshire,New Hampshire 2nd,55,45
+NJ_1,New Jersey,New Jersey 1st,65,35
+NJ_2,New Jersey,New Jersey 2nd,55,45
+NJ_3,New Jersey,New Jersey 3rd,51,49
+NJ_4,New Jersey,New Jersey 4th,45,55
+NJ_5,New Jersey,New Jersey 5th,55,45
+NJ_6,New Jersey,New Jersey 6th,65,35
+NJ_7,New Jersey,New Jersey 7th,51,49
+NJ_8,New Jersey,New Jersey 8th,78,22
+NJ_9,New Jersey,New Jersey 9th,70,30
+NJ_10,New Jersey,New Jersey 10th,85,15
+NJ_11,New Jersey,New Jersey 11th,55,45
+NJ_12,New Jersey,New Jersey 12th,70,30
+NM_1,New Mexico,New Mexico 1st,60,40
+NM_2,New Mexico,New Mexico 2nd,50,50
+NM_3,New Mexico,New Mexico 3rd,65,35
+NY_1,New York,New York 1st,48,52
+NY_2,New York,New York 2nd,47,53
+NY_3,New York,New York 3rd,60,40
+NY_4,New York,New York 4th,60,40
+NY_5,New York,New York 5th,90,10
+NY_6,New York,New York 6th,90,10
+NY_7,New York,New York 7th,95,5
+NY_8,New York,New York 8th,95,5
+NY_9,New York,New York 9th,90,10
+NY_10,New York,New York 10th,85,15
+NY_11,New York,New York 11th,55,45
+NY_12,New York,New York 12th,85,15
+NY_13,New York,New York 13th,95,5
+NY_14,New York,New York 14th,80,20
+NY_15,New York,New York 15th,95,5
+NY_16,New York,New York 16th,90,10
+NY_17,New York,New York 17th,90,10
+NY_18,New York,New York 18th,55,45
+NY_19,New York,New York 19th,52,48
+NY_20,New York,New York 20th,65,35
+NY_21,New York,New York 21st,45,55
+NY_22,New York,New York 22nd,50,50
+NY_23,New York,New York 23rd,45,55
+NY_24,New York,New York 24th,47,53
+NY_25,New York,New York 25th,60,40
+NY_26,New York,New York 26th,67,33
+NY_27,New York,New York 27th,49,51
+NC_1,North Carolina,North Carolina 1st,70,30
+NC_2,North Carolina,North Carolina 2nd,47,53
+NC_3,North Carolina,North Carolina 3rd,10,90
+NC_4,North Carolina,North Carolina 4th,75,25
+NC_5,North Carolina,North Carolina 5th,45,55
+NC_6,North Carolina,North Carolina 6th,45,55
+NC_7,North Carolina,North Carolina 7th,45,55
+NC_8,North Carolina,North Carolina 8th,45,55
+NC_9,North Carolina,North Carolina 9th,49,51
+NC_10,North Carolina,North Carolina 10th,40,60
+NC_11,North Carolina,North Carolina 11th,40,60
+NC_12,North Carolina,North Carolina 12th,75,25
+NC_13,North Carolina,North Carolina 13th,45,55
+ND,North Dakota,North Dakota at-large,35,65
+OH_1,Ohio,Ohio 1st,48,52
+OH_2,Ohio,Ohio 2nd,40,60
+OH_3,Ohio,Ohio 3rd,75,25
+OH_4,Ohio,Ohio 4th,35,65
+OH_5,Ohio,Ohio 5th,35,65
+OH_6,Ohio,Ohio 6th,30,70
+OH_7,Ohio,Ohio 7th,41,59
+OH_8,Ohio,Ohio 8th,35,65
+OH_9,Ohio,Ohio 9th,65,35
+OH_10,Ohio,Ohio 10th,43,57
+OH_11,Ohio,Ohio 11th,82,18
+OH_12,Ohio,Ohio 12th,47,53
+OH_13,Ohio,Ohio 13th,61,39
+OH_14,Ohio,Ohio 14th,55,45
+OH_15,Ohio,Ohio 15th,40,60
+OH_16,Ohio,Ohio 16th,45,55
+OK_1,Oklahoma,Oklahoma 1st,40,60
+OK_2,Oklahoma,Oklahoma 2nd,40,60
+OK_3,Oklahoma,Oklahoma 3rd,25,75
+OK_4,Oklahoma,Oklahoma 4th,35,65
+OK_5,Oklahoma,Oklahoma 5th,49,51
+OR_1,Oregon,Oregon 1st,65,35
+OR_2,Oregon,Oregon 2nd,40,60
+OR_3,Oregon,Oregon 3rd,75,25
+OR_4,Oregon,Oregon 4th,55,45
+OR_5,Oregon,Oregon 5th,55,45
+PA_1,Pennsylvania,Pennsylvania 1st,48,52
+PA_2,Pennsylvania,Pennsylvania 2nd,80,20
+PA_3,Pennsylvania,Pennsylvania 3rd,95,5
+PA_4,Pennsylvania,Pennsylvania 4th,65,35
+PA_5,Pennsylvania,Pennsylvania 5th,65,35
+PA_6,Pennsylvania,Pennsylvania 6th,60,40
+PA_7,Pennsylvania,Pennsylvania 7th,55,45
+PA_8,Pennsylvania,Pennsylvania 8th,55,45
+PA_9,Pennsylvania,Pennsylvania 9th,40,60
+PA_10,Pennsylvania,Pennsylvania 10th,48,52
+PA_11,Pennsylvania,Pennsylvania 11th,40,60
+PA_12,Pennsylvania,Pennsylvania 12th,35,65
+PA_13,Pennsylvania,Pennsylvania 13th,30,70
+PA_14,Pennsylvania,Pennsylvania 14th,45,55
+PA_15,Pennsylvania,Pennsylvania 15th,35,65
+PA_16,Pennsylvania,Pennsylvania 16th,47,53
+PA_17,Pennsylvania,Pennsylvania 17th,55,45
+PA_18,Pennsylvania,Pennsylvania 18th,90,10
+RI_1,Rhode Island,Rhode Island 1st,65,35
+RI_2,Rhode Island,Rhode Island 2nd,65,35
+SC_1,South Carolina,South Carolina 1st,52,48
+SC_2,South Carolina,South Carolina 2nd,45,55
+SC_3,South Carolina,South Carolina 3rd,30,70
+SC_4,South Carolina,South Carolina 4th,35,65
+SC_5,South Carolina,South Carolina 5th,40,60
+SC_6,South Carolina,South Carolina 6th,70,30
+SC_7,South Carolina,South Carolina 7th,40,60
+SD,South Dakota,South Dakota at-large,35,65
+TN_1,Tennessee,Tennessee 1st,25,75
+TN_2,Tennessee,Tennessee 2nd,35,65
+TN_3,Tennessee,Tennessee 3rd,35,65
+TN_4,Tennessee,Tennessee 4th,35,65
+TN_5,Tennessee,Tennessee 5th,65,35
+TN_6,Tennessee,Tennessee 6th,30,70
+TN_7,Tennessee,Tennessee 7th,30,70
+TN_8,Tennessee,Tennessee 8th,30,70
+TN_9,Tennessee,Tennessee 9th,80,20
+TX_1,Texas,Texas 1st,25,75
+TX_2,Texas,Texas 2nd,45,55
+TX_3,Texas,Texas 3rd,44,55
+TX_4,Texas,Texas 4th,25,75
+TX_5,Texas,Texas 5th,35,65
+TX_6,Texas,Texas 6th,45,55
+TX_7,Texas,Texas 7th,55,45
+TX_8,Texas,Texas 8th,25,75
+TX_9,Texas,Texas 9th,90,10
+TX_10,Texas,Texas 10th,45,55
+TX_11,Texas,Texas 11th,20,80
+TX_12,Texas,Texas 12th,33,67
+TX_13,Texas,Texas 13th,20,80
+TX_14,Texas,Texas 14th,40,60
+TX_15,Texas,Texas 15th,60,40
+TX_16,Texas,Texas 16th,70,30
+TX_17,Texas,Texas 17th,40,60
+TX_18,Texas,Texas 18th,75,25
+TX_19,Texas,Texas 19th,25,75
+TX_20,Texas,Texas 20th,80,20
+TX_21,Texas,Texas 21st,45,55
+TX_22,Texas,Texas 22nd,46,54
+TX_23,Texas,Texas 23rd,48,52
+TX_24,Texas,Texas 24th,48,52
+TX_25,Texas,Texas 25th,44,56
+TX_26,Texas,Texas 26th,40,60
+TX_27,Texas,Texas 27th,40,60
+TX_28,Texas,Texas 28th,85,15
+TX_29,Texas,Texas 29th,75,25
+TX_30,Texas,Texas 30th,90,19
+TX_31,Texas,Texas 31st,47,53
+TX_32,Texas,Texas 32nd,55,45
+TX_33,Texas,Texas 33rd,75,25
+TX_34,Texas,Texas 34th,60,40
+TX_35,Texas,Texas 35th,70,30
+TX_36,Texas,Texas 36th,25,75
+UT_1,Utah,Utah 1st,35,65
+UT_2,Utah,Utah 2nd,35,65
+UT_3,Utah,Utah 3rd,35,65
+UT_4,Utah,Utah 4th,52,48
+VT,Vermont,Vermont at-large,60,40
+VA_1,Virginia,Virginia 1st,45,55
+VA_2,Virginia,Virginia 2nd,52,48
+VA_3,Virginia,Virginia 3rd,90,10
+VA_4,Virginia,Virginia 4th,65,35
+VA_5,Virginia,Virginia 5th,45,55
+VA_6,Virginia,Virginia 6th,40,60
+VA_7,Virginia,Virginia 7th,51,49
+VA_8,Virginia,Virginia 8th,75,25
+VA_9,Virginia,Virginia 9th,35,65
+VA_10,Virginia,Virginia 10th,55,45
+VA_11,Virginia,Virginia 11th,70,30
+WA_1,Washington,Washington 1st,60,40
+WA_2,Washington,Washington 2nd,70,30
+WA_3,Washington,Washington 3rd,47,53
+WA_4,Washington,Washington 4th,35,65
+WA_5,Washington,Washington 5th,45,55
+WA_6,Washington,Washington 6th,65,35
+WA_7,Washington,Washington 7th,85,15
+WA_8,Washington,Washington 8th,52,48
+WA_9,Washington,Washington 9th,65,35
+WA_10,Washington,Washington 10th,61,39
+WV_1,West Virginia,West Virginia 1st,35,65
+WV_2,West Virginia,West Virginia 2nd,45,55
+WV_3,West Virginia,West Virginia 3rd,45,55
+WI_1,Wisconsin,Wisconsin 1st,45,55
+WI_2,Wisconsin,Wisconsin 2nd,90,10
+WI_3,Wisconsin,Wisconsin 3rd,60,40
+WI_4,Wisconsin,Wisconsin 4th,75,25
+WI_5,Wisconsin,Wisconsin 5th,35,65
+WI_6,Wisconsin,Wisconsin 6th,45,55
+WI_7,Wisconsin,Wisconsin 7th,40,60
+WI_8,Wisconsin,Wisconsin 8th,35,65
+WY,Wyoming,Wyoming at-large,35,65
