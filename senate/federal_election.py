@@ -91,7 +91,7 @@ def federal_election():
     today = date.today()
     with open('results/results-senate-' + today.strftime("%m-%d-%Y") + '.csv', 'w') as csvfile:
         filewriter = csv.writer(csvfile, quotechar='|', quoting=csv.QUOTE_MINIMAL)
-        filewriter.writerow(["id", "name", "party", "democrat", "republican", "third", "democrat_win", "republican_win", "third_win", "winner"])
+        filewriter.writerow(["id", "name", "democrat", "republican", "third", "democrat_win", "republican_win", "winner"])
         for key, value in output.items():
             democrat = round(value[0]/1000, 2)
             republican = round(value[1]/1000, 2)
@@ -131,7 +131,7 @@ def federal_election():
                 else:
                     pass
 
-            filewriter.writerow([key, states[key][0], party, democrat, republican, third, democrat_win, republican_win, third_win, winner])
+            filewriter.writerow([key, states[key][0], str(democrat) + '%', str(republican) + '%', str(third) + '%', str(democrat_win) + '%', str(republican_win) + '%', winner])
             
     print('outputted as results-senate-' + today.strftime("%m-%d-%Y") + '.csv')
 

@@ -7,7 +7,7 @@ def state_election():
         name = value[0]
         ec = value[1]
         d_2016_votes = int(value[2])
-        r_2016_votes = int(value[3])
+        r_20156_votes = int(value[3])
         t_2016_votes = int(value[4])
         d_2016_votes_p = (Decimal(value[2]) / Decimal(value[5]))
         r_2016_votes_p = (Decimal(value[3]) / Decimal(value[5]))

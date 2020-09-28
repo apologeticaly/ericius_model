@@ -95,8 +95,16 @@ def federal_election():
 
     se_table.title = 'GE Simulation'
     print('Done')
-    print (se_table.table)
-    print(round(wins.count("D")/10, 0), round(wins.count("R")/10, 0), round(wins.count("T")/10, 0), ec_d/1000, ec_r/1000)
+
+
+    term_table_data = [
+    [colored('Dem Win %', 'white', 'on_blue'), colored('R Win %', 'white', 'on_red'), colored('Tie %', 'grey', 'on_white'), colored('D Avg ECV', 'white', 'on_blue'), colored('R Avg ECV', 'white', 'on_red')]
+    ]
+    term_table = SingleTable(term_table_data)
+
+    term_table_data.append([round(wins.count("D")/10, 0), round(wins.count("R")/10, 0), round(wins.count("T")/10, 0), ec_d/1000, ec_r/1000])
+    print (term_table.table)
+    # print(round(wins.count("D")/10, 0), round(wins.count("R")/10, 0), round(wins.count("T")/10, 0), ec_d/1000, ec_r/1000)
 
     today = date.today()
     with open('results/results-president-' + today.strftime("%m-%d-%Y") + '.csv', 'w') as csvfile:
